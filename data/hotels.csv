@@ -1,0 +1,61 @@
+hotel_id,name,city,state,country,star_rating,total_rooms
+1,Fowler Grand Hotel,Denver,Colorado,USA,2,43
+2,Johnson Resort & Spa,Austin,Texas,USA,3,54
+3,Hill Grand Hotel,Seattle,Washington,USA,4,64
+4,Walker Suites,Boston,Massachusetts,USA,2,37
+5,Doyle Grand Hotel,Miami,Florida,USA,2,45
+6,Rhodes Resort & Spa,Buffalo,New York,USA,4,62
+7,Mcclain Suites,Los Angeles,California,USA,3,36
+8,Miller Suites,Denver,Colorado,USA,3,46
+9,Henderson Suites,Orlando,Florida,USA,3,56
+10,Johnson Grand Hotel,Atlanta,Georgia,USA,4,59
+11,Robinson Plaza Hotel,New York City,New York,USA,3,60
+12,Wagner Resort & Spa,New York City,New York,USA,5,66
+13,Johnson Grand Hotel,Houston,Texas,USA,2,42
+14,Gonzalez Inn,San Francisco,California,USA,4,67
+15,Santos Inn,Las Vegas,Nevada,USA,4,39
+16,Gardner Plaza Hotel,Seattle,Washington,USA,4,47
+17,Robinson Plaza Hotel,Boston,Massachusetts,USA,2,40
+18,Lawrence Suites,Austin,Texas,USA,5,59
+19,Pacheco Suites,Houston,Texas,USA,3,48
+20,Smith Grand Hotel,San Francisco,California,USA,4,51
+21,Shaffer Inn,Phoenix,Arizona,USA,5,54
+22,Wolfe Resort & Spa,Atlanta,Georgia,USA,5,45
+23,Peterson Inn,Miami,Florida,USA,4,49
+24,Moore Inn,Atlanta,Georgia,USA,3,63
+25,Bernard Resort & Spa,Houston,Texas,USA,4,33
+26,Rogers Grand Hotel,Seattle,Washington,USA,4,62
+27,Davis Suites,New York City,New York,USA,4,63
+28,Davis Plaza Hotel,New York City,New York,USA,3,62
+29,Abbott Suites,Boston,Massachusetts,USA,3,50
+30,Munoz Grand Hotel,Houston,Texas,USA,3,41
+31,Roman Inn,Los Angeles,California,USA,3,43
+32,Blair Resort & Spa,San Francisco,California,USA,5,70
+33,Herrera Inn,Las Vegas,Nevada,USA,3,62
+34,Dudley Plaza Hotel,Orlando,Florida,USA,5,37
+35,Gray Plaza Hotel,Denver,Colorado,USA,3,63
+36,Arnold Resort & Spa,New York City,New York,USA,4,35
+37,Calderon Inn,Chicago,Illinois,USA,4,68
+38,Montgomery Suites,Miami,Florida,USA,3,52
+39,Hensley Resort & Spa,Buffalo,New York,USA,4,64
+40,Ray Grand Hotel,San Francisco,California,USA,5,34
+41,Bush Resort & Spa,New York City,New York,USA,4,65
+42,Williams Suites,Miami,Florida,USA,2,58
+43,Perez Suites,Miami,Florida,USA,5,41
+44,Roberts Inn,Chicago,Illinois,USA,5,57
+45,Miller Grand Hotel,Atlanta,Georgia,USA,4,64
+46,Hall Suites,San Francisco,California,USA,4,51
+47,Garcia Inn,Phoenix,Arizona,USA,3,41
+48,Ramirez Resort & Spa,Miami,Florida,USA,4,70
+49,Reid Inn,Seattle,Washington,USA,5,47
+50,Diaz Resort & Spa,Phoenix,Arizona,USA,4,46
+51,Wood Inn,San Francisco,California,USA,4,53
+52,Clark Suites,Chicago,Illinois,USA,3,31
+53,Adams Resort & Spa,Houston,Texas,USA,4,33
+54,Zuniga Suites,Phoenix,Arizona,USA,5,47
+55,Wong Inn,Las Vegas,Nevada,USA,4,70
+56,Lynch Inn,San Francisco,California,USA,5,55
+57,Jackson Inn,Atlanta,Georgia,USA,3,32
+58,Daniel Suites,Buffalo,New York,USA,5,44
+59,Martin Plaza Hotel,San Francisco,California,USA,4,64
+60,Gray Suites,Phoenix,Arizona,USA,4,39

@@ -1,0 +1,235 @@
+room_type_id,hotel_id,type_name,base_price,max_occupancy
+1,1,Executive Suite,358.65,4
+2,1,Deluxe,187.54,2
+3,1,Double,126.81,2
+4,2,Family Room,267.83,6
+5,2,Single,96.56,1
+6,2,Executive Suite,379.24,4
+7,2,Double,110.51,2
+8,3,Single,91.56,1
+9,3,Double,116.48,2
+10,3,Executive Suite,494.37,4
+11,3,Deluxe,212.01,2
+12,3,Suite,259.06,4
+13,4,Executive Suite,365.32,4
+14,4,Family Room,184.59,6
+15,4,Suite,317.5,4
+16,4,Single,106.19,1
+17,4,Deluxe,223.12,2
+18,5,Suite,274.04,4
+19,5,Executive Suite,427.35,4
+20,5,Single,85.1,1
+21,6,Single,102.64,1
+22,6,Double,152.98,2
+23,6,Deluxe,225.32,2
+24,6,Suite,289.35,4
+25,7,Double,159.7,2
+26,7,Executive Suite,423.12,4
+27,7,Deluxe,198.52,2
+28,8,Family Room,248.8,6
+29,8,Single,80.76,1
+30,8,Deluxe,234.19,2
+31,9,Family Room,260.57,6
+32,9,Double,136.28,2
+33,9,Deluxe,231.88,2
+34,9,Suite,328.51,4
+35,10,Single,109.1,1
+36,10,Suite,325.15,4
+37,10,Double,116.49,2
+38,10,Family Room,235.49,6
+39,11,Deluxe,213.81,2
+40,11,Single,81.05,1
+41,11,Double,136.68,2
+42,11,Executive Suite,445.63,4
+43,11,Family Room,253.12,6
+44,12,Executive Suite,377.81,4
+45,12,Suite,368.78,4
+46,12,Deluxe,151.13,2
+47,12,Family Room,220.87,6
+48,13,Suite,299.84,4
+49,13,Double,131.93,2
+50,13,Family Room,200.4,6
+51,13,Deluxe,185.11,2
+52,14,Single,94.33,1
+53,14,Executive Suite,496.99,4
+54,14,Family Room,189.97,6
+55,14,Deluxe,217.32,2
+56,15,Deluxe,210.71,2
+57,15,Family Room,183.55,6
+58,15,Executive Suite,424.97,4
+59,15,Double,110.0,2
+60,15,Suite,276.26,4
+61,16,Suite,339.05,4
+62,16,Single,119.48,1
+63,16,Deluxe,183.78,2
+64,16,Family Room,244.51,6
+65,17,Executive Suite,343.66,4
+66,17,Single,119.61,1
+67,17,Family Room,248.49,6
+68,17,Double,110.72,2
+69,18,Family Room,222.24,6
+70,18,Suite,254.84,4
+71,18,Executive Suite,480.09,4
+72,19,Deluxe,229.63,2
+73,19,Family Room,295.23,6
+74,19,Single,108.09,1
+75,19,Executive Suite,363.56,4
+76,20,Executive Suite,451.37,4
+77,20,Suite,265.81,4
+78,20,Double,155.47,2
+79,20,Family Room,198.84,6
+80,20,Deluxe,228.6,2
+81,21,Deluxe,209.06,2
+82,21,Single,104.17,1
+83,21,Family Room,191.8,6
+84,21,Double,134.81,2
+85,22,Suite,224.65,4
+86,22,Family Room,206.9,6
+87,22,Double,136.58,2
+88,22,Deluxe,195.3,2
+89,23,Executive Suite,489.1,4
+90,23,Family Room,219.0,6
+91,23,Suite,259.99,4
+92,24,Family Room,269.16,6
+93,24,Suite,361.36,4
+94,24,Single,102.71,1
+95,24,Double,133.12,2
+96,24,Executive Suite,472.69,4
+97,25,Suite,248.03,4
+98,25,Deluxe,234.34,2
+99,25,Double,155.28,2
+100,26,Double,112.42,2
+101,26,Deluxe,191.51,2
+102,26,Single,82.25,1
+103,26,Suite,316.52,4
+104,27,Double,148.22,2
+105,27,Suite,354.06,4
+106,27,Single,113.6,1
+107,28,Double,100.41,2
+108,28,Suite,225.17,4
+109,28,Single,103.84,1
+110,29,Suite,361.34,4
+111,29,Family Room,244.48,6
+112,29,Single,105.79,1
+113,29,Double,136.42,2
+114,29,Deluxe,239.03,2
+115,30,Single,84.65,1
+116,30,Suite,283.74,4
+117,30,Executive Suite,464.46,4
+118,30,Deluxe,219.19,2
+119,30,Family Room,223.6,6
+120,31,Executive Suite,329.2,4
+121,31,Suite,262.0,4
+122,31,Family Room,279.03,6
+123,31,Single,107.68,1
+124,31,Deluxe,160.06,2
+125,32,Deluxe,162.78,2
+126,32,Suite,258.89,4
+127,32,Family Room,237.91,6
+128,33,Single,114.96,1
+129,33,Deluxe,194.24,2
+130,33,Family Room,209.37,6
+131,33,Double,115.6,2
+132,34,Family Room,263.95,6
+133,34,Suite,310.92,4
+134,34,Deluxe,203.5,2
+135,34,Double,145.68,2
+136,35,Executive Suite,344.2,4
+137,35,Deluxe,183.38,2
+138,35,Single,88.14,1
+139,36,Deluxe,214.18,2
+140,36,Double,140.4,2
+141,36,Family Room,198.53,6
+142,36,Executive Suite,461.04,4
+143,37,Double,151.55,2
+144,37,Executive Suite,351.46,4
+145,37,Deluxe,170.51,2
+146,38,Executive Suite,416.85,4
+147,38,Deluxe,173.35,2
+148,38,Double,143.27,2
+149,39,Executive Suite,494.48,4
+150,39,Suite,323.02,4
+151,39,Family Room,250.46,6
+152,39,Deluxe,195.1,2
+153,39,Single,96.17,1
+154,40,Suite,297.44,4
+155,40,Double,122.79,2
+156,40,Family Room,260.25,6
+157,40,Single,73.24,1
+158,41,Deluxe,163.51,2
+159,41,Double,136.52,2
+160,41,Executive Suite,445.75,4
+161,42,Family Room,239.85,6
+162,42,Double,134.16,2
+163,42,Deluxe,207.48,2
+164,43,Family Room,268.97,6
+165,43,Executive Suite,372.71,4
+166,43,Double,101.97,2
+167,44,Single,118.52,1
+168,44,Deluxe,155.04,2
+169,44,Family Room,248.0,6
+170,44,Double,114.88,2
+171,44,Suite,260.97,4
+172,45,Double,110.65,2
+173,45,Family Room,297.53,6
+174,45,Executive Suite,353.15,4
+175,45,Deluxe,174.97,2
+176,45,Suite,338.9,4
+177,46,Single,81.38,1
+178,46,Double,135.14,2
+179,46,Deluxe,202.31,2
+180,46,Family Room,235.71,6
+181,46,Suite,305.91,4
+182,47,Deluxe,193.05,2
+183,47,Single,92.09,1
+184,47,Double,128.56,2
+185,48,Executive Suite,419.66,4
+186,48,Family Room,216.0,6
+187,48,Double,100.58,2
+188,49,Single,110.29,1
+189,49,Suite,318.31,4
+190,49,Double,127.38,2
+191,49,Deluxe,150.04,2
+192,50,Executive Suite,335.31,4
+193,50,Deluxe,195.66,2
+194,50,Suite,302.27,4
+195,50,Family Room,294.17,6
+196,51,Deluxe,174.78,2
+197,51,Executive Suite,412.25,4
+198,51,Double,118.53,2
+199,51,Suite,290.41,4
+200,52,Suite,362.94,4
+201,52,Single,95.48,1
+202,52,Deluxe,194.62,2
+203,53,Single,74.73,1
+204,53,Suite,357.92,4
+205,53,Deluxe,180.82,2
+206,54,Executive Suite,342.64,4
+207,54,Double,130.11,2
+208,54,Family Room,218.4,6
+209,54,Single,96.52,1
+210,54,Deluxe,159.26,2
+211,55,Executive Suite,331.28,4
+212,55,Double,145.98,2
+213,55,Family Room,274.3,6
+214,55,Suite,356.38,4
+215,56,Family Room,258.42,6
+216,56,Double,147.32,2
+217,56,Deluxe,220.18,2
+218,56,Suite,263.1,4
+219,56,Executive Suite,486.57,4
+220,57,Deluxe,180.03,2
+221,57,Family Room,222.47,6
+222,57,Double,144.71,2
+223,57,Suite,291.95,4
+224,58,Executive Suite,452.44,4
+225,58,Suite,284.65,4
+226,58,Family Room,296.24,6
+227,58,Single,87.68,1
+228,59,Suite,350.97,4
+229,59,Deluxe,168.2,2
+230,59,Single,103.1,1
+231,60,Deluxe,188.47,2
+232,60,Family Room,225.89,6
+233,60,Single,97.9,1
+234,60,Double,144.34,2
