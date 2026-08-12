@@ -1,0 +1,61 @@
+"hotel_id","name","total_bookings","cancelled_bookings","cancellation_rate_pct"
+53,Adams Resort & Spa,898,109,12.14
+15,Santos Inn,899,107,11.90
+35,Gray Plaza Hotel,872,99,11.35
+25,Bernard Resort & Spa,864,98,11.34
+57,Jackson Inn,885,99,11.19
+12,Wagner Resort & Spa,966,108,11.18
+59,Martin Plaza Hotel,932,104,11.16
+22,Wolfe Resort & Spa,935,104,11.12
+3,Hill Grand Hotel,910,101,11.10
+56,Lynch Inn,897,99,11.04
+58,Daniel Suites,899,99,11.01
+33,Herrera Inn,929,101,10.87
+14,Gonzalez Inn,930,101,10.86
+48,Ramirez Resort & Spa,963,104,10.80
+31,Roman Inn,888,95,10.70
+20,Smith Grand Hotel,888,95,10.70
+26,Rogers Grand Hotel,931,99,10.63
+19,Pacheco Suites,962,101,10.50
+50,Diaz Resort & Spa,969,101,10.42
+6,Rhodes Resort & Spa,881,91,10.33
+36,Arnold Resort & Spa,873,90,10.31
+42,Williams Suites,909,93,10.23
+44,Roberts Inn,962,98,10.19
+13,Johnson Grand Hotel,926,94,10.15
+37,Calderon Inn,940,95,10.11
+9,Henderson Suites,877,88,10.03
+46,Hall Suites,909,91,10.01
+40,Ray Grand Hotel,941,94,9.99
+11,Robinson Plaza Hotel,933,93,9.97
+28,Davis Plaza Hotel,939,93,9.90
+7,Mcclain Suites,963,95,9.87
+60,Gray Suites,914,89,9.74
+51,Wood Inn,919,89,9.68
+29,Abbott Suites,931,90,9.67
+41,Bush Resort & Spa,902,87,9.65
+5,Doyle Grand Hotel,904,87,9.62
+43,Perez Suites,951,91,9.57
+54,Zuniga Suites,942,90,9.55
+55,Wong Inn,904,86,9.51
+32,Blair Resort & Spa,897,85,9.48
+34,Dudley Plaza Hotel,943,89,9.44
+8,Miller Suites,912,86,9.43
+30,Munoz Grand Hotel,973,91,9.35
+17,Robinson Plaza Hotel,860,80,9.30
+38,Montgomery Suites,927,86,9.28
+27,Davis Suites,913,84,9.20
+18,Lawrence Suites,908,82,9.03
+10,Johnson Grand Hotel,979,88,8.99
+52,Clark Suites,929,83,8.93
+16,Gardner Plaza Hotel,900,79,8.78
+39,Hensley Resort & Spa,940,80,8.51
+24,Moore Inn,953,81,8.50
+49,Reid Inn,871,73,8.38
+47,Garcia Inn,968,80,8.26
+4,Walker Suites,847,69,8.15
+21,Shaffer Inn,863,70,8.11
+45,Miller Grand Hotel,911,73,8.01
+23,Peterson Inn,875,69,7.89
+2,Johnson Resort & Spa,885,69,7.80
+1,Fowler Grand Hotel,909,68,7.48

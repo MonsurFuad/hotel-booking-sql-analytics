@@ -1,0 +1,61 @@
+"hotel_id","name","total_rooms","total_room_nights_booked","occupancy_rate_pct"
+52,Clark Suites,31,613,5.42
+57,Jackson Inn,32,620,5.31
+34,Dudley Plaza Hotel,37,657,4.86
+53,Adams Resort & Spa,33,581,4.82
+36,Arnold Resort & Spa,35,606,4.74
+47,Garcia Inn,41,670,4.48
+43,Perez Suites,41,665,4.44
+25,Bernard Resort & Spa,33,523,4.34
+4,Walker Suites,37,574,4.25
+30,Munoz Grand Hotel,41,635,4.24
+40,Ray Grand Hotel,34,514,4.14
+7,Mcclain Suites,36,541,4.12
+15,Santos Inn,39,585,4.11
+13,Johnson Grand Hotel,42,627,4.09
+60,Gray Suites,39,581,4.08
+22,Wolfe Resort & Spa,45,645,3.93
+1,Fowler Grand Hotel,43,602,3.84
+19,Pacheco Suites,48,672,3.84
+23,Peterson Inn,49,684,3.82
+31,Roman Inn,43,586,3.73
+16,Gardner Plaza Hotel,47,622,3.63
+50,Diaz Resort & Spa,46,603,3.59
+5,Doyle Grand Hotel,45,589,3.59
+46,Hall Suites,51,661,3.55
+49,Reid Inn,47,604,3.52
+17,Robinson Plaza Hotel,40,513,3.51
+56,Lynch Inn,55,698,3.48
+54,Zuniga Suites,47,581,3.39
+20,Smith Grand Hotel,51,629,3.38
+9,Henderson Suites,56,689,3.37
+29,Abbott Suites,50,612,3.35
+51,Wood Inn,53,640,3.31
+58,Daniel Suites,44,513,3.19
+21,Shaffer Inn,54,628,3.19
+18,Lawrence Suites,59,681,3.16
+8,Miller Suites,46,518,3.09
+10,Johnson Grand Hotel,59,659,3.06
+44,Roberts Inn,57,625,3.00
+38,Montgomery Suites,52,554,2.92
+2,Johnson Resort & Spa,54,572,2.90
+26,Rogers Grand Hotel,62,642,2.84
+42,Williams Suites,58,601,2.84
+39,Hensley Resort & Spa,64,659,2.82
+33,Herrera Inn,62,630,2.78
+11,Robinson Plaza Hotel,60,607,2.77
+24,Moore Inn,63,637,2.77
+14,Gonzalez Inn,67,674,2.76
+28,Davis Plaza Hotel,62,620,2.74
+35,Gray Plaza Hotel,63,624,2.71
+45,Miller Grand Hotel,64,631,2.70
+41,Bush Resort & Spa,65,636,2.68
+3,Hill Grand Hotel,64,619,2.65
+48,Ramirez Resort & Spa,70,654,2.56
+37,Calderon Inn,68,627,2.53
+59,Martin Plaza Hotel,64,582,2.49
+12,Wagner Resort & Spa,66,589,2.44
+6,Rhodes Resort & Spa,62,549,2.43
+55,Wong Inn,70,595,2.33
+32,Blair Resort & Spa,70,570,2.23
+27,Davis Suites,63,492,2.14
