@@ -556,6 +556,6 @@ CALL book_room(99996, 3, 1, 7, '2026-05-01', '2026-05-05', 2, 500.00);
 SELECT room_id, status FROM rooms WHERE room_id = 7;
 
 CALL cancel_booking(99996);
-SELECT booking_status FROM bookings WHERE booking_id = 99996;   -- expect 'cancelled'
-SELECT payment_status FROM payments WHERE booking_id = 99996;   -- expect 'refunded'
-SELECT status FROM rooms WHERE room_id = 7;                     -- expect 'available' again
+SELECT booking_status FROM bookings WHERE booking_id = 99996;  
+SELECT payment_status FROM payments WHERE booking_id = 99996;   
+SELECT status FROM rooms WHERE room_id = 7;                     
